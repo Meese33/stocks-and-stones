@@ -16,7 +16,7 @@
     // Add your custom code here.
   };
 
-  var TITLE = "Stocks and Stonrd: An Alternate History" + '_' + "Autumn Chen" + '_' + "Sabotabby_";
+  var TITLE = "Stocks and Stonrd: An Alternate History" + '_' + "Autumn Chen" + '_' + "Meese33 (Sabotabby_";
 
   // the url is a link to game.json
   // test url: https://aucchen.github.io/social_democracy_mods/v0.1.json
